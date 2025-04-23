@@ -1,1 +1,1 @@
-# .github
+# SIM AI Training
